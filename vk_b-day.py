@@ -13,7 +13,7 @@ vk_birth_month = strftime("%m", gmtime())
 
 # TODO:
 # New version for Vkontakte api for module ver 2.0a4 and above
-token = 'TOKEN'
+token = '-TOKEN_'
 # session = vk.Session(access_token=token)
 vkapi = vk.API(access_token=token)
 # vkapi = vk.API(session)

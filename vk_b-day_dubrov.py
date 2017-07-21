@@ -14,7 +14,7 @@ vk_birth_month = today.strftime("%m")
 
 # TODO:
 # New version for Vkontakte api for module ver 2.0a4 and above
-token = 'ab24a0d61bbf2b74bfca4e6fa38586fb66104d9d0db4d2ec9d73c8197cb2b9f916211bbf157ea38be4cc6'
+token = 'TOKEN'
 # session = vk.Session(access_token=token)
 vkapi = vk.API(access_token=token)
 # vkapi = vk.API(session)
